@@ -1,10 +1,10 @@
 <h1>Neto Sepulveda</h1>
 <strong>Brinco de programar e também faço uns rabiscos no Photoshop. 😜</strong><br/><br/>
 <strong>Salve meu confrade 🖖</strong>
-<br/>📌 • Sou mineiro de **Espinosa** mas atualmente moro em **Guanambi-BA**.
+<br/>📌 • Sou mineiro de <b>Espinosa</b> mas atualmente moro em <b>Guanambi-BA</b>.
 <br/>👦 • Tenho 22 anos.
 <br/>🎞️ • Trabalhei por 3 anos com edição de vídeo/imagem em um studio de fotografia.
-<br/>📚 • Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBA - Campus Guanambi**.
+<br/>📚 • Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> no <b>IFBA - Campus Guanambi</b>.
 <br/>🤖 • Gosto de tudo que envolve tecnologia e desing.
 <br/>🎮 • Curto muito jogos de FPS como o CS:GO e também jogo outros jogos de corrida/emuladores.
 <br/>💬 • Levo a sério os projetos que participo (sejam eles pessoais, trabalho, faculdade, etc).
