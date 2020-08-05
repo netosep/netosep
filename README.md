@@ -12,6 +12,7 @@
 <br/>🖥️ • Linguagens: C e Python | Estudando: Java e JavaScript.
 <br/>
 <strong>Redes Sociais</strong>
+<br/>
 <!-- Badge Gmail -->
 <a target="_blank" href="mailto:clementesepulveda27@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Neto%20Sepulveda-c14438?style=social-square&logo=Gmail&logoColor=white"/>
