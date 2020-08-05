@@ -17,6 +17,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-net0xy-00acee?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/net0xy)](https://twitter.com/net0xy)
 [![Facebook Badge](https://img.shields.io/badge/-Neto%20Sepulveda-3b5998?style=social-square&logo=Facebook&logoColor=white&link=http://facebook.com/net0sepulveda)](http://facebook.com/net0sepulveda)
 [![Instagram Badge](https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white&link=http://instagram.com/net0sepulveda)](http://instagram.com/net0sepulveda)
-<a target="_blank">
+<a href="https://steamcommunity.com/id/net0x" target="_blank">
   <img src="https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/net0x"/>
 </a>
