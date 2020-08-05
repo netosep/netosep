@@ -19,11 +19,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white&link=http://instagram.com/net0sepulveda)](http://instagram.com/net0sepulveda)
 
 <!-- Badge Instagram -->
-<a target="_blank" href="http://instagram.com/net0sepulveda">
+<a target="_blank" href="http://instagram.com/net0sepulveda" style="width: 105px;">
   <img src="https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white"/>
 </a>
 
 <!-- Badge Steam -->
-<a target="_blank" href="https://steamcommunity.com/id/net0x">
+<a target="_blank" href="https://steamcommunity.com/id/net0x" style="width: 105px;">
   <img src="https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white"/>
 </a>
