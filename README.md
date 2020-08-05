@@ -14,7 +14,7 @@
 <br/>**Redes Sociais**
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Neto%20Sepulveda-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:clementesepulveda27@gmail.com)](mailto:clementesepulveda27@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Neto%20Sepulveda-00acee?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/net0xy)](https://twitter.com/net0xy)
+[![Twitter Badge](https://img.shields.io/badge/-net0xy-00acee?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/net0xy)](https://twitter.com/net0xy)
 [![Facebook Badge](https://img.shields.io/badge/-Neto%20Sepulveda-3b5998?style=social-square&logo=Facebook&logoColor=white&link=http://facebook.com/net0sepulveda)](http://facebook.com/net0sepulveda)
-[![Instagram Badge](https://img.shields.io/badge/-Neto%20Sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white&link=http://instagram.com/net0sepulveda)](http://instagram.com/net0sepulveda)
-[![Steam Badge](https://img.shields.io/badge/-Neto%20Sepulveda-171a21?style=social-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/net0x)](https://steamcommunity.com/id/net0x)
+[![Instagram Badge](https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white&link=http://instagram.com/net0sepulveda)](http://instagram.com/net0sepulveda)
+[![Steam Badge](https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/net0x)](https://steamcommunity.com/id/net0x)
