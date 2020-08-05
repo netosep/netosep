@@ -10,7 +10,7 @@
 <br/>🎮 • Curto muito jogos de FPS como o CS:GO e também jogo outros jogos de corrida/emuladores.
 <br/>💬 • Levo a sério os projetos que participo (sejam eles pessoais, trabalho, faculdade, etc).
 <br/>🖥️ • Linguagens: C e Python | Estudando: Java e JavaScript.
-<br/>
+<br/><br/>
 <strong>Redes Sociais</strong>
 <br/>
 <!-- Badge Gmail -->
