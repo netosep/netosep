@@ -1,5 +1,5 @@
 <h1>Neto Sepulveda</h1>
-<strong>Brinco de programar e também faço uns rabiscos no Photoshop. 😜</strong><br/>
+<strong>Brinco de programar e também faço uns rabiscos no Photoshop. 😜</strong><br/><br/>
 <strong>Salve meu confrade 🖖</strong>
 <br/>📌 • Sou mineiro de **Espinosa** mas atualmente moro em **Guanambi-BA**.
 <br/>👦 • Tenho 22 anos.
@@ -9,8 +9,7 @@
 <br/>🎮 • Curto muito jogos de FPS como o CS:GO e também jogo outros jogos de corrida/emuladores.
 <br/>💬 • Levo a sério os projetos que participo (sejam eles pessoais, trabalho, faculdade, etc).
 <br/>🖥️ • Linguagens: C e Python | Estudando: Java e JavaScript.
-<br/>
-<br/>
+<br/><br/>
 <strong>Redes Sociais</strong><br/>
 <!-- Badge Gmail -->
 <a target="_blank" href="mailto:clementesepulveda27@gmail.com" style="text-decoration: none;">
