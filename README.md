@@ -29,7 +29,7 @@
 </a>
 <!-- Badge Linkedin -->
 <a target="_blank" href="https://www.linkedin.com/in/netosepulveda" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-net0sepulveda-0e76a8?style=social-square&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Neto%20Sepulveda-0e76a8?style=social-square&logo=Linkedin&logoColor=white"/>
 </a>
 <!-- Badge Steam -->
 <a target="_blank" href="https://steamcommunity.com/id/net0x" style="text-decoration: none;">
