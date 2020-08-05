@@ -1,7 +1,6 @@
 <h1>Neto Sepulveda</h1>
-<strong>Brinco de programar e também faço uns rabiscos no Photoshop. 😜</strong>
-<br/>
-<strong>Salve meu confrade 🖖</strong><br/>
+<strong>Brinco de programar e também faço uns rabiscos no Photoshop. 😜</strong><br/>
+<strong>Salve meu confrade 🖖</strong>
 <br/>📌 • Sou mineiro de **Espinosa** mas atualmente moro em **Guanambi-BA**.
 <br/>👦 • Tenho 22 anos.
 <br/>🎞️ • Trabalhei por 3 anos com edição de vídeo/imagem em um studio de fotografia.
