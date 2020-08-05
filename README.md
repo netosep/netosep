@@ -13,17 +13,23 @@
 <br/>
 <br/>**Redes Sociais**
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-Neto%20Sepulveda-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:clementesepulveda27@gmail.com)](mailto:clementesepulveda27@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-net0xy-00acee?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/net0xy)](https://twitter.com/net0xy)
-[![Facebook Badge](https://img.shields.io/badge/-Neto%20Sepulveda-3b5998?style=social-square&logo=Facebook&logoColor=white&link=http://facebook.com/net0sepulveda)](http://facebook.com/net0sepulveda)
-[![Instagram Badge](https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white&link=http://instagram.com/net0sepulveda)](http://instagram.com/net0sepulveda)
-
+<!-- Badge Gmail -->
+<a target="_blank" href="mailto:clementesepulveda27@gmail.com">
+  <img src="https://img.shields.io/badge/-Neto%20Sepulveda-c14438?style=social-square&logo=Gmail&logoColor=white"/>
+</a>
+<!-- Badge Twitter -->
+<a target="_blank" href="https://twitter.com/net0xy">
+  <img src="https://img.shields.io/badge/-net0xy-00acee?style=social-square&logo=Twitter&logoColor=white"/>
+</a>
+<!-- Badge Facebook -->
+<a target="_blank" href="http://facebook.com/net0sepulveda">
+  <img src="https://img.shields.io/badge/-Neto%20Sepulveda-3b5998?style=social-square&logo=Facebook&logoColor=white"/>
+</a>
 <!-- Badge Instagram -->
-<a target="_blank" href="http://instagram.com/net0sepulveda" style="width: 105px;">
+<a target="_blank" href="http://instagram.com/net0sepulveda">
   <img src="https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white"/>
 </a>
-
 <!-- Badge Steam -->
-<a target="_blank" href="https://steamcommunity.com/id/net0x" style="width: 105px;">
+<a target="_blank" href="https://steamcommunity.com/id/net0x">
   <img src="https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white"/>
 </a>
