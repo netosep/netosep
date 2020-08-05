@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**net0xy/net0xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Neto Sepulveda
+**Brinco de programar e também faço uns rabiscos no Photoshop. 😜**
+<br/>
+<br/>**Salve meu confrade 🖖**
+<br/>📌 • Sou mineiro de **Espinosa** mas atualmente moro em **Guanambi-BA**.
+<br/>👦 • Tenho 22 anos.
+<br/>🎞️ • Trabalhei por 3 anos com edição de vídeo/imagem em um studio de fotografia.
+<br/>📚 • Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBA - Campus Guanambi**.
+<br/>🤖 • Gosto de tudo que envolve tecnologia e desing.
+<br/>🎮 • Curto muito jogos de FPS como o CS:GO e também jogo outros jogos de corrida/emuladores.
+<br/>💬 • Levo a sério os projetos que participo (sejam eles pessoais, trabalho, faculdade, etc).
+<br/>🖥️ • Linguagens: C e Python | Estudando: Java e JavaScript.
+<br/>
+<br/>**Redes Sociais**
+<br/>
+[![Gmail Badge](https://img.shields.io/badge/-Neto%20Sepulveda-c14438?style=social-square&logo=Gmail&logoColor=white&link=mailto:clementesepulveda27@gmail.com)](mailto:clementesepulveda27@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Neto%20Sepulveda-00acee?style=social-square&logo=Twitter&logoColor=white&link=https://twitter.com/net0xy)](https://twitter.com/net0xy)
+[![Facebook Badge](https://img.shields.io/badge/-Neto%20Sepulveda-3b5998?style=social-square&logo=Facebook&logoColor=white&link=http://facebook.com/net0sepulveda)](http://facebook.com/net0sepulveda)
+[![Instagram Badge](https://img.shields.io/badge/-Neto%20Sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white&link=http://instagram.com/net0sepulveda)](http://instagram.com/net0sepulveda)
+[![Steam Badge](https://img.shields.io/badge/-Neto%20Sepulveda-171a21?style=social-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/net0x)](https://steamcommunity.com/id/net0x)
