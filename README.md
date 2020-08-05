@@ -27,6 +27,10 @@
 <a target="_blank" href="http://instagram.com/net0sepulveda" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-net0sepulveda-3f729b?style=social-square&logo=Instagram&logoColor=white"/>
 </a>
+<!-- Badge Linkedin -->
+<a target="_blank" href="https://www.linkedin.com/in/netosepulveda" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-net0sepulveda-0e76a8?style=social-square&logo=Linkedin&logoColor=white"/>
+</a>
 <!-- Badge Steam -->
 <a target="_blank" href="https://steamcommunity.com/id/net0x" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white"/>
