@@ -35,7 +35,9 @@
 <a target="_blank" href="https://steamcommunity.com/id/net0x" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white"/>
 </a>
+
 ***
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=netosep&show_icons=true&theme=radical&title_color=F71B5D&text_color=fff&icon_color=F71B5"/>
