@@ -2,13 +2,13 @@
 <strong>Brinco de programar e também faço uns rabiscos no Photoshop. 😜</strong><br/><br/>
 <strong>Salve meu confrade 🖖</strong>
 <br/>📌 • Sou mineiro de <b>Espinosa</b> mas atualmente moro em <b>Guanambi-BA</b>.
-<br/>👦 • Tenho 22 anos.
+<br/>👦 • Tenho 23 anos.
 <br/>🎞️ • Trabalhei por 3 anos com edição de vídeo/imagem em um studio de fotografia.
 <br/>📚 • Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> no <b>IFBA - Campus Guanambi</b>.
 <br/>🤖 • Gosto de tudo que envolve tecnologia e desing.
 <br/>🎮 • Curto muito jogos de FPS como o CS:GO e também jogo outros jogos de corrida/emuladores.
 <br/>💬 • Levo a sério os projetos que participo (sejam eles pessoais, trabalho, faculdade, etc).
-<br/>🖥️ • Linguagens: C e Python | Estudando: Java e JavaScript.
+<br/>🖥️ • Linguagens preferidas: Python e JavaScript | Estudando: php | Já estudei: Java e C.
 <br/><br/>
 <strong>Redes Sociais</strong><br/>
 <!-- Badge Gmail -->
@@ -35,3 +35,7 @@
 <a target="_blank" href="https://steamcommunity.com/id/net0x" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-net0x-171a21?style=social-square&logo=Steam&logoColor=white"/>
 </a>
+
+***
+
+<img src="https://github-readme-stats.vercel.app/api?username=netosep&show_icons=true&theme=radical&title_color=F71B5D&text_color=fff&icon_color=F71B5"/>
