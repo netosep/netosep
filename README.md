@@ -1,8 +1,8 @@
 ## Hy! My name is Neto Sepulveda
 
-:octocat: Welcome to my github profile!
-
 <img align="right" src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="180px" />
+
+:octocat: Welcome to my github profile!
 
 ### I'm a space lover 🚀, programming 👨‍💻 and kittens 😺
 
