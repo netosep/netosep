@@ -1,4 +1,4 @@
-## Hy! My name is Neto Sepulveda
+## Hy! 🙋🏻‍♂️ - My name is Neto Sepulveda
 
 <img align="right" src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="180px" />
 
@@ -6,14 +6,14 @@
 
 ### I'm a space lover 🚀, programming 👨‍💻 and kittens 😺
 
-#### 🔸 About me:
- - 👦 I'm 23 yers old.
+#### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> About me:
+ - 👦🏻 I'm 23 yers old.
  - 📚 Student of Systems Analysis and Development at IFBaiano.
  - 🖤 I like everything that involves technology and design.
 
 ***
 
-#### 🔸 Find me on:
+#### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> Find me on:
 <!-- Badge Gmail -->
 <a target="_blank" href="mailto:clementesepulveda27@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=social-square&logo=Gmail&logoColor=white"/>
@@ -33,6 +33,10 @@
 <!-- Badge Steam -->
 <a target="_blank" href="https://steamcommunity.com/id/net0x" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Steam-171a21?style=social-square&logo=Steam&logoColor=white"/>
+</a>
+<!-- Badge Steam -->
+<a href="#" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-net0x%238469-738ADB?style=social-square&logo=Discord&logoColor=white"/>
 </a>
 
 ***
