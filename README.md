@@ -11,7 +11,7 @@
  - 📚 Student of Systems Analysis and Development at IFBaiano.
  - 🖤 I like everything that involves technology and design.
 
-***
+#
 
 #### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> Find me on:
 <!-- Badge Gmail -->
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-net0x%238469-738ADB?style=social-square&logo=Discord&logoColor=white"/>
 </a>
 
-***
+#
 
 <!-- GitHub Stats -->
 <a href="https://github.com/netosep">
