@@ -9,7 +9,7 @@
 #
 
 #### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> About me:
- - 👦🏻 I'm 23 yers old.
+ - 👦🏻 I'm 23 years old.
  - 📚 Student of Systems Analysis and Development at IFBaiano.
  - 🖤 I like everything that involves technology and design.
 
