@@ -4,7 +4,7 @@
 
 :octocat: Welcome to my github profile!
 
-### I'm a space lover 🚀, programming 👨‍💻 and kittens 😺
+### — I'm a space lover 🚀, programming 👨‍💻 and kittens 😺
 
 #
 
