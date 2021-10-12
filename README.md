@@ -6,6 +6,8 @@
 
 ### I'm a space lover 🚀, programming 👨‍💻 and kittens 😺
 
+#
+
 #### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> About me:
  - 👦🏻 I'm 23 yers old.
  - 📚 Student of Systems Analysis and Development at IFBaiano.
