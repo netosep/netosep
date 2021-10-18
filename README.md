@@ -1,4 +1,4 @@
-## Hy! 🙋🏻‍♂️ - My name is Neto Sepulveda
+## Hi! 🙋🏻‍♂️ - My name is Neto Sepulveda
 
 <img align="right" src="https://pic.funnygifsbox.com/uploads/2019/02/funnygifsbox.com-2019-02-14-05-10-07-25.gif" width="180px" />
 
