@@ -5,14 +5,14 @@
 
 #
 
-#### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> About me:
+#### → About me:
  - 👦🏻 I'm 24 years old.
  - 📚 Student of Systems Analysis and Development at IFBaiano.
  - 🖤 I like everything that involves technology and design.
 
 #
 
-#### <img src="https://thumbs.gfycat.com/PerkyElegantIridescentshark-max-1mb.gif" width="20px"/> Find me on:
+#### → Find me on:
 <!-- Badge Gmail -->
 <a target="_blank" href="mailto:clementesepulveda27@gmail.com" style="text-decoration: none;">
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=social-square&logo=Gmail&logoColor=white"/>
