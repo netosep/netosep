@@ -7,7 +7,7 @@
 
 #### → About me:
  - 👦🏻 I'm 24 years old.
- - 📚 Student of Systems Analysis and Development at IFBaiano.
+ - 📚 Graduated in Systems Analysis and Development at IFBaiano
  - 🖤 I like everything that involves technology and design.
 
 #
