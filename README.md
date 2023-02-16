@@ -7,7 +7,7 @@
 
 #### → About me:
  - 👦🏻 I'm 25 years old.
- - 👨🏻‍💻 I'm a Junior Backend Developer at [NVPC](novovarejo.com)
+ - 👨🏻‍💻 I'm a Junior Backend Developer at [NVPC](http://novovarejo.com)
  - 📚 Graduated in Systems Analysis and Development at IFBaiano
  - 🖤 I like everything that involves technology and design.
 
