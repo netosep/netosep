@@ -34,9 +34,9 @@
 <a target="_blank" href="https://steamcommunity.com/id/net0x">
  <img src="https://img.shields.io/badge/-Steam-171a21?style=social-square&logo=Steam&logoColor=white"/>
 </a>
-<!-- Badge Steam -->
+<!-- Badge Discord -->
 <a href="#">
- <img src="https://img.shields.io/badge/-net0x%238469-738ADB?style=social-square&logo=Discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-net0x%231852-738ADB?style=social-square&logo=Discord&logoColor=white"/>
 </a>
 <!-- Profile views -->
 <a href="#" style="text-decoration: none;">
