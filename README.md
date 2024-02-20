@@ -6,12 +6,17 @@
 #
 
 #### → About me:
- - 👦🏻 I'm 25 years old.
- - 👨🏻‍💻 I'm a Junior Backend Developer at [NVPC](http://novovarejo.com)
+ - 👦🏻 I'm 26 years old.
+ - 👨🏻‍💻 I'm a Junior Backend Developer at [NVPC](http://nvpc.io)
  - 📚 Graduated in Systems Analysis and Development at IFBaiano
  - 🖤 I like everything that involves technology and design.
 
 #
+
+<!-- Profile views -->
+<a href="#" style="text-decoration: none;">
+ <img src="https://komarev.com/ghpvc/?username=netosep"/>
+</a>
 
 #### → Find me on:
 <!-- Badge Gmail -->
@@ -19,8 +24,8 @@
  <img src="https://img.shields.io/badge/-Gmail-c14438?style=social-square&logo=Gmail&logoColor=white"/>
 </a>
 <!-- Badge Twitter -->
-<a target="_blank" href="https://twitter.com/net0xy">
- <img src="https://img.shields.io/badge/-Twitter-00acee?style=social-square&logo=Twitter&logoColor=white"/>
+<a target="_blank" href="https://x.com/net0xy">
+ <img src="https://img.shields.io/badge/-X (twitter)-00acee?style=social-square&logo=X&logoColor=white&color=black"/>
 </a>
 <!-- Badge Instagram -->
 <a target="_blank" href="http://instagram.com/netosepulveda_">
@@ -36,11 +41,7 @@
 </a>
 <!-- Badge Discord -->
 <a href="#">
- <img src="https://img.shields.io/badge/-net0x%231852-738ADB?style=social-square&logo=Discord&logoColor=white"/>
-</a>
-<!-- Profile views -->
-<a href="#" style="text-decoration: none;">
- <img src="https://komarev.com/ghpvc/?username=netosep"/>
+ <img src="https://img.shields.io/badge/-net0x-738ADB?style=social-square&logo=Discord&logoColor=white"/>
 </a>
 
 #
