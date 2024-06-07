@@ -55,5 +55,6 @@
  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netosep&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
 </a>
 
+
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://i.pinimg.com/originals/fd/e0/bc/fde0bc545973eb48a0e38535751de0df.jpg');]{x0000}$}
